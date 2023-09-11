@@ -281,7 +281,7 @@ h5,
 h6,
 hr,
 figure,
-p,
+/* p, */
 pre {
   margin: 0;
 }
